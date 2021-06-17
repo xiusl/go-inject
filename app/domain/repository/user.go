@@ -3,8 +3,8 @@ package repository
 import (
 	"sync"
 
-	"github.com/xiusl/injet/app/domain/model"
-	apperror "github.com/xiusl/injet/app/error"
+	"github.com/xiusl/inject/app/domain/model"
+	apperror "github.com/xiusl/inject/app/error"
 )
 
 // UserRepository
