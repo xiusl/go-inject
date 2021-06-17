@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"github.com/xiusl/injet/app/interface/rpc/v1.0"
-	"github.com/xiusl/injet/app/register"
+	"github.com/xiusl/inject/app/interface/rpc/v1.0"
+	"github.com/xiusl/inject/app/register"
 	"google.golang.org/grpc"
 )
 

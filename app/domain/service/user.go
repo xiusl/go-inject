@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/xiusl/injet/app/domain/repository"
-	apperror "github.com/xiusl/injet/app/error"
+	"github.com/xiusl/inject/app/domain/repository"
+	apperror "github.com/xiusl/inject/app/error"
 )
 
 type UserService struct {

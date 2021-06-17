@@ -2,9 +2,9 @@ package registry
 
 import (
 	"github.com/sarulabs/di"
-	"github.com/xiusl/injet/app/domain/repository"
-	"github.com/xiusl/injet/app/domain/service"
-	"github.com/xiusl/injet/app/usecase"
+	"github.com/xiusl/inject/app/domain/repository"
+	"github.com/xiusl/inject/app/domain/service"
+	"github.com/xiusl/inject/app/usecase"
 )
 
 type Container struct {

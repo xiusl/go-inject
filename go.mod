@@ -1,4 +1,4 @@
-module github.com/xiusl/injet
+module github.com/xiusl/inject
 
 go 1.16
 

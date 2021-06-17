@@ -3,8 +3,8 @@ package v1
 import (
 	"context"
 
-	"github.com/xiusl/injet/app/interface/rpc/v1.0/protocol"
-	"github.com/xiusl/injet/app/usecase"
+	"github.com/xiusl/inject/app/interface/rpc/v1.0/protocol"
+	"github.com/xiusl/inject/app/usecase"
 )
 
 // userService

@@ -2,9 +2,9 @@ package usecase
 
 import (
 	"github.com/google/uuid"
-	"github.com/xiusl/injet/app/domain/model"
-	"github.com/xiusl/injet/app/domain/repository"
-	"github.com/xiusl/injet/app/domain/service"
+	"github.com/xiusl/inject/app/domain/model"
+	"github.com/xiusl/inject/app/domain/repository"
+	"github.com/xiusl/inject/app/domain/service"
 )
 
 // User
