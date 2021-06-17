@@ -50,7 +50,7 @@ func (uc *userUsecase) ListUser() ([]*User, error) {
 
 // Register
 // 使用 name 注册用户
-func (uc *userUsecase) Register(name string) error {
+func (uc *userUsecase) RegisterUser(name string) error {
 	uid, err := uuid.NewRandom()
 	if err != nil {
 		return err
